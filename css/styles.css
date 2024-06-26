@@ -9,3 +9,15 @@ ul{
 a{
     text-decoration: none;
 }
+
+header-logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    сolor: #4d5ae5;
+}
+
+}
