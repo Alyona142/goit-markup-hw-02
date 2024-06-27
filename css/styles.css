@@ -62,7 +62,6 @@ a{
 
 main{
     font-family: "Roboto", sans-serif;
-    background-color: #2e2f42;
 }
 
 .page-title{
@@ -72,7 +71,6 @@ main{
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    background-color:  #2e2f42;;
 }
 
 .button{
