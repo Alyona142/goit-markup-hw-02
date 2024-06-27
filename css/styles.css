@@ -127,6 +127,11 @@ a{
     text-align: center;
     color: #2e2f42;
 }
+
+.list-team{
+    background-color: #FFFFFF
+}
+
 .title-team{
     font-weight: 700;
     font-size: 36px;
@@ -208,7 +213,7 @@ footer{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #fff;
+    color: #4d5ae5;
 
 }
 
