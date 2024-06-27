@@ -68,7 +68,6 @@ main{
 .page-main{
     background-color: #2e2f42;
 }
-
 .page-title{
     font-weight: 700;
     font-size: 56px;
@@ -94,7 +93,8 @@ main{
 .button:focus{
     background-color: #404bbf;
 }
-    
+  
+
 .name-adwantages{
     font-weight: 500;
     font-size: 20px;
