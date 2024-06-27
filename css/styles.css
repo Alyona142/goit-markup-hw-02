@@ -1,7 +1,7 @@
 body{
     font-family:"Roboto",sans-serif;
     color: #434455;
-    background-color: #fff;;
+    background-color: #fff;
 }
 
 ul,
@@ -20,7 +20,7 @@ a{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    сolor: #4d5ae5;
+    color: #4d5ae5;
 }
 
 .header-logo .logo-part{
@@ -70,7 +70,7 @@ main{
     line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff
+    color: #fff;
     background-color: #2e2f42;
 }
 
@@ -81,7 +81,7 @@ main{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    background-color: #4d5ae5;;
+    background-color: #4d5ae5;
 }
 
 .button:hover,
@@ -191,7 +191,7 @@ footer{
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        сolor: #4d5ae5;
+         color : #4d5ae5;
         }
 
 .footer-logo .logo-part{
