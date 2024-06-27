@@ -179,8 +179,10 @@ main{
     color: #434455;
 }
 
-.footer-logo. .logo-part[
-    color: #f4f4fd;
+.footer-logo .logo-part[
+      background-color: #2e2f42;
+      color: #f4f4fd
+    
 ]
 
 .text-logo{
