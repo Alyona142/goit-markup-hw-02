@@ -107,10 +107,12 @@ main{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #434455;
 }  
 
 .page-team{
+    text-transform: capitalize;
     background-color: #f4f4fd;
     font-weight: 700;
     font-size: 36px;
@@ -171,12 +173,18 @@ main{
 }
 
 .title-portfolio{
+    text-transform: capitalize;
+    background-color: #f4f4fd;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+}
+   
+.list-portfolio{
+    background-color: #ffffff;
 }
 
 .names{
@@ -185,6 +193,7 @@ main{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    background-color: #ffffff;
 }
 .text-portfolio{
     font-weight: 400;
@@ -198,18 +207,9 @@ footer{
     background-color: #2e2f42;
 }
 
-.logo{
-        font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-         color : #4d5ae5;
-        }
-
-.footer-logo .logo-part{
-    color: #f4f4fd
+.footer-logo,
+.logo-part{
+    color: #f4f4fd;
 }
 
 .text-logo{
